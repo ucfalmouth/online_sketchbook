@@ -1,0 +1,3 @@
+<?php
+
+include_once('online_sketchbook.features.inc');
